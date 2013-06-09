@@ -5,6 +5,10 @@ Simple tool for fetching Steam stats HTML data and converting it into parsing
 friendly format. The default Steam stats page is fetched every hour and data is
 stored into stats/<year>/<month>/<year-month-day>.json file.
 
+Websites providing nice graphs of Steam statistics data:  
+http://steamcharts.com/  
+http://www.steamgraph.net/
+
 Contact
 -------
 
